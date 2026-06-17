@@ -5,8 +5,9 @@ function Login() {
     <div className="login-page">
       <div className="login-card">
         <div className="login-left">
-          <div className="brand">
-            <span>HRM</span>
+          
+          <div className="brand-logo">
+            <img src="https://www.dronainfotech.com/path-to-logo.png" alt="Drona Infotech" />
           </div>
 
           <h1>Welcome Back</h1>
