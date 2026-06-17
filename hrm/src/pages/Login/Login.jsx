@@ -7,7 +7,7 @@ function Login() {
         <div className="login-left">
           
           <div className="brand-logo">
-            <img src="https://www.dronainfotech.com/wp-content/themes/dronainfotech/images/logo.png" alt="Drona Infotech" />
+            <img src="https://mediahubindia.com/wp-content/uploads/2026/06/drona-icon.png" alt="Drona Infotech" />
           </div>
 
           <h1>Welcome Back</h1>
@@ -15,12 +15,10 @@ function Login() {
 
           <form>
             <div className="form-group">
-              <label>Email / Employee ID</label>
               <input type="text" placeholder="Enter email or employee ID" />
             </div>
 
             <div className="form-group">
-              <label>Password</label>
               <input type="password" placeholder="Enter password" />
             </div>
 
