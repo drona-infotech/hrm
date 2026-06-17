@@ -7,7 +7,7 @@ function Login() {
         <div className="login-left">
           
           <div className="brand-logo">
-            <img src="https://www.dronainfotech.com/path-to-logo.png" alt="Drona Infotech" />
+            <img src="https://www.dronainfotech.com/wp-content/themes/dronainfotech/images/logo.png" alt="Drona Infotech" />
           </div>
 
           <h1>Welcome Back</h1>
