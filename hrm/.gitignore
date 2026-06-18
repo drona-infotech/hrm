@@ -22,3 +22,30 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python Virtual Environments
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Pytest
+.pytest_cache/
+
+# SQLAlchemy / Alembic Cache
+alembic/versions/__pycache__/
+
+# Build Artifacts
+build/
+dist/
+
+# Misc
+*.sqlite3
+*.db
